@@ -8,13 +8,15 @@ the LED strip.
 
 ## Functions
 
-1. Onboard ATtiny104
+1. Onboard ATtiny13A
 2. Power is expected to be pigtailed and soldered to board
 
 ## Firmware
 
-The firmware project is located here.
+The firmware project:
  - ![firmware](https://github.com/gpgreen/led-dimmer-boat-fw)
 
-![Schematic](schematic.pdf)
+![Schematic pdf](schematic.pdf)
+
+PCB
 ![Board](board.png)
